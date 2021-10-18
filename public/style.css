@@ -1,0 +1,36 @@
+/* styling stuffs */
+
+.main {
+	max-width: 500px;
+  margin: auto;
+}
+
+
+body{
+	margin:20px;
+	padding: 20px;
+
+	font-family: Arial;
+
+}
+.budget {
+  margin-top:2%
+}
+
+.budgetText {
+	font-size: 21px;
+	color: green;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.main1{
+	margin-left: 10px;
+}
+
+.main2{
+	margin-left: 20px;
+}
+
+.main3{
+	margin-left: 30px;
+}
